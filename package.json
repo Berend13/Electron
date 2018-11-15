@@ -1,0 +1,11 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "A test application to practise electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Berend & Ricardo",
+  "license": "ISC"
+}
